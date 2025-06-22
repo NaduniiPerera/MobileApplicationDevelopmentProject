@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green_500">#FF4CAF50</color>
+    <color name="red_500">#FFF44336</color>
+    <color name="orange_500">#FFFF9800</color>
+
+    <!-- Light Blue Colors -->
+    <color name="light_blue">#E3F2FD</color>
+    <color name="lighter_blue">#F5FBFF</color>
+    <color name="blue_primary">#90CAF9</color>
+    <color name="blue_primary_dark">#64B5F6</color>
+
+    <!-- Chart Colors -->
+    <color name="chart_color_1">#90CAF9</color>
+    <color name="chart_color_2">#64B5F6</color>
+    <color name="chart_color_3">#42A5F5</color>
+    <color name="chart_color_4">#2196F3</color>
+    <color name="chart_color_5">#1E88E5</color>
+
+    <color name="colorPrimary">@color/blue_primary</color>
+    <color name="colorAccent">@color/blue_primary_dark</color>
+    <color name="background">@color/lighter_blue</color>
+    <color name="surface">@color/white</color>
+    <color name="onBackground">#000000</color>
+    <color name="onSurface">#000000</color>
+</resources>
